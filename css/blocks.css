@@ -1,0 +1,58 @@
+body{
+	background-color: yellow;
+}
+p{
+	font-size: 50px;
+	background-color: green;
+}
+.p1{
+	display: inline-block;
+}
+.s1{
+	border: dotted 2px red;
+	display: block;
+}
+ul{
+	list-style-type: none;
+}
+li{
+	border: double 2px salmon;
+	display: inline-block;
+}
+li:hover{
+	background-color: lightgrey;
+}
+#first{
+	width: 500px;
+	height: 500px;
+	background-color: blue;
+	font-size: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-left: dotted yellow;
+	border-right: dashed olive;
+	border-bottom: groove red;
+	border-top: ridge orange;
+	border-width: 20px;
+	margin: 50px;
+	border-radius: 10% 20%;
+}
+#second{
+	width: 700px;
+	height: 700px;
+	background-color: violet;
+	border: groove 20px blue;
+	font-size: 50px;
+	text-align: center;
+	padding: 50px;
+	border-style: dotted dashed;
+	border-color: red orange yellow pink;
+	border-radius: 5% 10% 15% 20%;
+}
+#third,#forth{
+	width: 800px;
+	height: 200px;
+	border: dashed 10px pink;
+	margin: 20px;
+}

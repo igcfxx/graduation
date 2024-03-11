@@ -1,0 +1,41 @@
+body{
+	background-color: lightskyblue;
+	background-image: url(https://media.idownloadblog.com/wp-content/uploads/2016/11/Animated-GIF-Banana.gif);
+	background-size: 200px;
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+	background-attachment: fixed;
+}
+p{
+	font-size: 0.8in;
+	background-image: url(https://img.freepik.com/free-vector/colorful-watercolor-rainbow-background_125540-151.jpg);
+background-size: cover;
+color: orange;
+text-align: center;
+}
+div{
+	height: 500px;
+	width: 500px;
+	margin: 20px;
+}
+#d1{
+	background-image: url(https://static.vecteezy.com/system/resources/thumbnails/023/330/706/small/train-on-the-railroad-sunset-background-generative-ai-photo.jpg);
+background-size: cover;
+border: ridge 20px brown;
+}
+#d2{
+
+background-image: url(https://gifdb.com/images/high/thinking-emoji-face-fwtb8bb2mnav8xjq.gif);
+border: solid 30px;
+border-image: linear-gradient(yellow, blue) 30;
+}
+#img2{
+display: block;
+margin: auto;
+width: 50%;
+border-radius: 50%;
+box-shadow: 0px 0px 50px grey;
+}
+#img1{
+	width: 50%;
+}
